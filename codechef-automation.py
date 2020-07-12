@@ -3,7 +3,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 
-WEBDRIVER_PATH = "C:\\Users\\abhiv\\Desktop\\data-science-course\\chromedriver_win32\\chromedriver.exe" # path to web driver
+WEBDRIVER_PATH = "C:\\Users\\abhiv\\Desktop\\chromedriver_win32\\chromedriver.exe" # path to web driver
 
 USERNAME = "" # Enter username
 PASSWORD = "" # Enter password
